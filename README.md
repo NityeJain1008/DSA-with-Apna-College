@@ -1,4 +1,3 @@
-# DSA-with-Apna-College
 # DSA with Apna College 🚀
 
 This repository contains my DSA learning journey using Apna College's YouTube course.
