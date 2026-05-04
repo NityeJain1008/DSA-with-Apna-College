@@ -2,6 +2,7 @@
 using namespace std;
 
 int main() {
+    
     int a ; 
     
     cout << "Hello" << endl ;
@@ -20,6 +21,4 @@ int main() {
 
     cout << "The sum is " << (a+b) << endl ; 
     return 0;
-    
-
 }
