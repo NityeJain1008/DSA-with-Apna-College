@@ -17,7 +17,6 @@ void selectionSort(vector<int> &arr)
                 minIndex = j;
             }
         }
-
         swap(arr[i], arr[minIndex]);
     }
 }
