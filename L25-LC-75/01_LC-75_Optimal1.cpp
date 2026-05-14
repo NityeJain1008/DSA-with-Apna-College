@@ -27,7 +27,6 @@ void sortColors(vector<int> &nums)
     for (int i = start; i <= end; i++)
     {
         sortarr[i] = 1;
-    
     }
     nums = sortarr;
 }
