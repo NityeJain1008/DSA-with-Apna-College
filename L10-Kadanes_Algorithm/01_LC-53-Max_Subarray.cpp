@@ -2,12 +2,10 @@
 using namespace std;
 int maxsum(vector<int> nums)
 {
-
     int currsum = 0, maxSum = INT_MIN;
 
     for (int val : nums)
     {
-
         currsum = currsum + val;
 
         if (currsum > maxSum)
@@ -24,7 +22,6 @@ int maxsum(vector<int> nums)
 
 int main()
 {
-
     vector <int> nums = {1, -2, 3, 4, 5} ; 
 
     cout << maxsum(nums) << endl ; 
